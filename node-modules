@@ -1,0 +1,2 @@
+Generate the node module packages using command
+npm i inquirer qr-image
